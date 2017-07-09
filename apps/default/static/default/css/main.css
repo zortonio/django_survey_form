@@ -1,0 +1,27 @@
+form{
+  margin: 20px auto;
+  width: 440px;
+  border: 1px solid black;
+}
+#labels, #inputs{
+  display: inline-block;
+  margin: 10px;
+  width: 200px;
+}
+#textbox{
+  display: block;
+  margin: 10px;
+}
+form textarea{
+  width: 100%;
+}
+form div label, form div input, form div select{
+  display: block;
+  width: 100%;
+}
+button{
+  position: relative;
+  left: 350px;
+  display: block;
+  margin: 10px;
+}

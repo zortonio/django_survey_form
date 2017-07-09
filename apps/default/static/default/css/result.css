@@ -1,0 +1,14 @@
+.box, .message{
+  width: 440px;
+  margin: 20px auto;
+  border: 1px solid black;
+}
+div h1, div p{
+  margin: 10px;
+}
+form{
+  text-align: right;
+}
+form button{
+  margin: 10px;
+}
